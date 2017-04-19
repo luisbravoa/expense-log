@@ -1,0 +1,34 @@
+[ {
+        "id":1, 
+        "name":"Rent", 
+        "description":"Monthly Rent"
+    },  {
+        "id":2, 
+        "name":"Water", 
+        "description":"Water charges"
+    },  {
+        "id":3, 
+        "name":"Electricity", 
+        "description":"Electricity charges"
+    },  {
+        "id":4, 
+        "name":"Groceries", 
+        "description":"Food, etc"
+    },  {
+        "id":5, 
+        "name":"Transportation", 
+        "description":"Bus, train, etc"
+    },  {
+        "id":6, 
+        "name":"Spending money", 
+        "description":"Various expenses"
+    },  {
+        "id":7, 
+        "name":"Repairs", 
+        "description":"repairs and renewals"
+    },  {
+        "id":8, 
+        "name":"Gifts", 
+        "description":""
+    }
+]

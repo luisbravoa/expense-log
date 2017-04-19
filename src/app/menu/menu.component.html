@@ -1,0 +1,11 @@
+<nav class="navbar navbar-inverse navbar-static-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Expense Log</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li [ngClass]="(url=='/')?'active':''"><a routerLink="/">Home</a></li>
+      <li [ngClass]="(url=='/expenses')?'active':''"><a routerLink="/expenses">Expense List</a></li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "description":"Electricity payment for the month of April 2017",
+        "amount":"120",
+        "currency":"EURO",
+        "cateforyId": 3,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":2,
+        "description":"Rent of the month of April 2017",
+        "amount":"700",
+        "currency":"EURO",
+        "cateforyId": 3,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":3,
+        "description":"Water of the month of April 2017",
+        "amount":"80",
+        "currency":"EURO",
+        "cateforyId": 2,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":4,
+        "description":"Electricity of the month of April 2017",
+        "amount":"120",
+        "currency":"EURO",
+        "cateforyId": 3,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":5,
+        "description":"Groceries of the month of April 2017",
+        "amount":"320",
+        "currency":"EURO",
+        "cateforyId": 4,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":6,
+        "description":"Transportation of the month of April 2017",
+        "amount":"50",
+        "currency":"EURO",
+        "cateforyId": 5,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":7,
+        "description":"Spending money of the month of April 2017",
+        "amount":"50",
+        "currency":"EURO",
+        "cateforyId": 6,
+        "created": "2017-04-19T15:08:47.756Z"
+    },
+    {
+        "id":8,
+        "description":"Gift for Patricia's birthday",
+        "amount":"80",
+        "currency":"EURO",
+        "cateforyId": 8,
+        "created": "2017-04-19T15:08:47.756Z"
+    }
+]
